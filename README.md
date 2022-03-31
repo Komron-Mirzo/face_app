@@ -1,16 +1,11 @@
 # face_emotions
 
-A new Flutter project.
+My Third Project: Face App Challenge
 
-## Getting Started
+## Screen Outcome
 
-This project is a starting point for a Flutter application.
+![face app gif](https://user-images.githubusercontent.com/74512232/161085696-33296c64-3326-4920-b125-1f92a3ab90cc.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## Sources used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pictures: https://freepik.com
